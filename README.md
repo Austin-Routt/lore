@@ -5,12 +5,12 @@
 Learn how to create and query rich fictional worlds using retrieval-augmented generation (RAG), guidance, and ChromaDB.
 
 <p align="center">
-  <img src="assets\lore_shoggoth.svg" alt="Loremaster Banner" width="500"/>
+  <img src="assets\lore_shoggoth3.svg" alt="Loremaster Banner" width="500"/>
 </p>
 
 ## ✨ Overview
 
-Lore is an educational project, based on the [Loremaster 6000 project](https://github.com/dottxt-ai/demos/lore-generator), which demonstrates how to build a RAG-powered system for creating and managing fictional worlds. Through Jupyter notebooks, it shows how to:
+Lore is an educational project, based on the [Loremaster 6000 project](https://github.com/dottxt-ai/demos), which demonstrates how to build a RAG-powered system for creating and managing fictional worlds. Through Jupyter notebooks, it shows how to:
 
 - Generate coherent, interconnected lore using constrained language models
 - Store and retrieve world elements using semantic search
@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md)
 
 ## 🌟 Acknowledgments
 
-- Based on the [Loremaster 6000 project](https://github.com/dottxt-ai/demos/lore-generator)
+- Based on the [Loremaster 6000 project](https://github.com/dottxt-ai/demos)
 - Inspired by traditional world-building techniques
 - Built with amazing open-source tools
 
